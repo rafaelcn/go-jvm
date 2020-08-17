@@ -1,3 +1,8 @@
+//
+//
+// Rafael Campos Nunes <rafaelnunes@engineer.com>
+//
+
 package main
 
 type (
